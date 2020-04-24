@@ -2,8 +2,23 @@ body {
     text-align: center;
     font-family: verdana;
     background-color: black;
+    color: white;
 }
 
 h1 {
+    font-size: 50px;
+}
 
+h2 {
+    font-size: 21px;
+    font-weight: normal;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+footer {
+    text-align: right;
 }
